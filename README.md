@@ -4,11 +4,6 @@ An elegant weather app built with **React (frontend)** and **Flask (backend)**. 
 
 ---
 
-## 📸 Demo
-
-![Weather UI](./screenshots/weather_ui.png) <!-- Add your own screenshot -->
-
----
 
 ## 🧰 Tech Stack
 
